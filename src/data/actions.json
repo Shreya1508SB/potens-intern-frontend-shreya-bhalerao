@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Approve Vendor Payment",
+    "context": "Invoice #4587 is due today.",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "title": "Review Inventory Shortage",
+    "context": "Warehouse B stock is below threshold.",
+    "priority": "High"
+  },
+  {
+    "id": 3,
+    "title": "Confirm Delivery Schedule",
+    "context": "Three shipments require confirmation.",
+    "priority": "Medium"
+  },
+  {
+    "id": 4,
+    "title": "Employee Attendance Review",
+    "context": "5 attendance anomalies detected.",
+    "priority": "Medium"
+  },
+  {
+    "id": 5,
+    "title": "Quality Inspection Approval",
+    "context": "Batch QI-203 is awaiting approval.",
+    "priority": "Low"
+  }
+]

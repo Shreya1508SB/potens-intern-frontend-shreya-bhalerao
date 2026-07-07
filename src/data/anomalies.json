@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "type": "Payment",
+    "message": "Unusually high vendor payment detected.",
+    "severity": "High"
+  },
+  {
+    "id": 2,
+    "type": "Inventory",
+    "message": "Warehouse C stock dropped by 45% overnight.",
+    "severity": "Medium"
+  },
+  {
+    "id": 3,
+    "type": "Attendance",
+    "message": "12 employees marked absent from one location.",
+    "severity": "Medium"
+  },
+  {
+    "id": 4,
+    "type": "Orders",
+    "message": "Order cancellation rate increased by 18%.",
+    "severity": "High"
+  },
+  {
+    "id": 5,
+    "type": "Quality",
+    "message": "Defect rate exceeded daily threshold.",
+    "severity": "Low"
+  }
+]
